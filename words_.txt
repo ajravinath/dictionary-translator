@@ -1,0 +1,493 @@
+black - කාලවර්ණය | කළුපාට
+blue - නිල්පාට | නීලවර්ණය
+brown - දුඹුරුපාට
+green - කොළපාට
+orange - තැඹිලිපාට
+pink - රෝස
+red - රතුපාට
+white - සුදු | ශ්වේත
+yellow - කහපාට | පීත
+eight - අට
+first - එක්වැනි
+five - පහ
+million - දශ-ලක්ෂය | මිලියනය
+nine - නවය
+nothing - ශූන්‍යය
+one - එක
+six - හය
+third - තුන්වැනි
+thousand - දහස
+three - තුන
+two - දෙක
+arm - බාහුව
+back - පිටුපස
+beak - හොට
+blood - ලේ | රුධිරය
+body - ඇඟ | ශරීරය
+bone - ඇටකටු
+brain - මොළය
+breath - ආශ්වාස-ප්‍රශ්වාසය | හුස්ම
+cell - සෛලය
+chest - ළැම | ලය
+chest - පපුව | ළැම
+chin - නිකට
+ear - කන
+eye - ඇස
+face - මුහුණ
+finger - ඇඟිල්ල
+foot - පය
+forehead - නළල
+gene - ජානය
+hair - කොණ්ඩය | හිසකෙස්
+hair - කෙස් | ලොම්
+hand - අත
+head - ඔළුව | හිස
+heart - හදවත | හෘදය
+knee - දණහිස
+leg - කකුල | පාදය
+lip - තොල
+mouth - මුඛය | කට
+muscle - මස්පිඩුව
+nail - නියපොත්ත
+neck - ගෙල | බෙල්ල
+nerve - නහරය | ස්නායුව
+nose - නාසය
+skin - සම | චර්මය
+stomach - ආමාශය | බඩ
+throat - උගුර
+thumb - මහපටැඟිල්ල
+toe - පයේ | ඇඟිල්ල
+tongue - දිව
+tooth - දත
+wing - පක්ෂීන්ගේ | පියාපත
+bear - වලහා
+bird - කුරුල්ලා
+cat - පූසා | බළලා
+cow - එළදෙන
+dog - බල්ලා | සුනඛයා
+elephant - අලියා
+fish - මාළුවා
+fly - ඉගිලෙනවා
+goat - එළුවා
+horse - අශ්වයා
+insect - කෘමියා
+lion - සිංහයා
+monkey - වඳුරා
+pig - ඌරා
+sheep - බැටළුවා
+snake - නාගයා
+afternoon - අපරභාගය
+autumn - ශරත්-ඍතුව
+beginning - ආරම්භය
+century - ශතවර්ෂය | සියවස
+date - දිනය
+December - දෙසැම්බර්-මාසය
+end - අවසානය
+evening - සන්ධ්‍යාව
+February - පෙබරවාරි-මාසය
+July - ජූලි-මාසය
+June - ජූනි-මාසය
+midnight - මධ්‍යම-රාත්‍රිය
+minute - මිනිත්තුව
+moment - මොහොත
+Monday - සඳුදා
+month - මාසය
+morning - උදෑසන
+night - රාත්‍රිය | රැය
+November - නොවැම්බර්-මාසය
+period - කාල-පරිච්ඡේදය | වකවානුව
+present - වර්තමාන-කාලය
+summer - ගිම්හානය
+Sunday - ඉරිදා | ඉරුදින
+today - අද
+tomorrow - භෙට
+Tuesday - අඟහරුවාදා
+week - සතිය
+weekend - සති | අන්තය
+while - මොහොත
+year - වර්ෂය
+bread - පාන්
+breakfast - උදේ | කෑම
+butter - බටර් | වෙඬරු
+cake - කේක් | ගෙඩිය
+cheese - කේජු
+chocolate - චොකලට්
+egg - බිත්තරය
+food - ආහාර
+fruit - පලතුරු
+lunch - දවල් | කෑම
+meal - කෑම | වේල
+meat - මස්
+oil - තෙල්
+rice - බත්
+salad - සලාදය
+salt - ලුණු
+sandwich - සැන්ඩ්විච්
+sauce - සෝස්
+soup - සූපය
+sugar - සීනි
+sweet - පැණිරස | මිහිරි
+beer - බීර
+coffee - කෝපි
+drink - බීම
+milk - කිරි
+tea - තේ
+water - ජලය | වතුර
+wine - වයින් | මුද්‍රිකපානය
+apple - ඇපල්
+lemon - දෙහි | ලෙමන්
+orange - දොඩම්
+bean - බෝංචි
+onion - ලූනු
+potato - අර්තාපල්
+tomato - තක්කාලි
+baby - බිලිඳා
+birth - උපත
+birthday - උපන්දිනය
+boy - පිරිමි-ලමයා
+brother - සහෝදරයා
+child - දරුවා
+daughter - දුව
+death - මරණය
+family - පවුල
+father - පියා
+friend - මිතුරා
+girl - ගෑනු | ළමයා
+grandfather - සීයා
+human - මනුෂ්‍ය
+husband - සැමියා | ස්වාමිපුරුෂයා
+life - ජීවය
+man - මිනිසා
+marriage - විවාහය | සරණ-බන්ධනය
+mother - මව | අම්මා
+parent - පියා-හෝ-මව | දෙමව්-පියා
+person - පුද්ගලයා
+relationship - සම්බන්ධතාව | නෑකම
+sister - සහෝදරිය
+son - පුතා | පිරිමි-දරුවා
+wedding - විවාහ | මංගල්‍යය
+wedding - විවාහ | මංගල්‍යය
+wife - බිරිඳ
+woman - ගැහැනිය
+address - ලිපිනය
+bathroom - නාන-කාමරය
+bedroom - නිදන-කාමරය
+brick - ගඩොල
+door - දොර
+floor - බිම
+garage - ගරාජය
+garden - උද්‍යානය
+gate - දොරටුව | ගේට්ටුව
+hall - සාලය | ශාලාව
+home - ගෙදර | නිවස
+house - ගෙදර
+kitchen - කුස්සිය
+roof - වහළ
+room - කාමරය
+step - තරප්පු-පඩිය
+toilet - වැසිකිළිය
+wall - බිත්තිය
+well - ළිඳ
+window - කවුළුව
+bed - ඇඳ | යහන
+carpet - කලාලය | බුමුතුරුණ
+chair - පුටුව
+cupboard - බිත්ති-රාක්කය
+curtain - තිරය
+desk - ලියන-මේසය
+furniture - ගෘහභාණ්ඩ
+seat - ආසනය
+shelf - රාක්කය
+table - මේසය
+bag - බෑගය | මල්ල
+boot - සපත්තුව
+cloth - වස්ත්‍රය
+clothing - ඇඳුම්
+coat - කබාය
+collar - කරපටිය | කරවළල්ල
+hat - හිස්වැස්ම | තොප්පිය
+jacket - පිටවැස්ම | ජැකෙට්ටුව
+jewel - ආභරණය
+ring - මුදුව
+shirt - කමිසය
+shoe - සපත්තුව | පාවහන
+skirt - සාය
+sock - මේස්
+suitcase - සූට්කේසය
+tie - කරපටිය
+airport - ගුවන්තොටුපළ
+bank - බැංකුව
+bridge - පාලම
+building - ගොඩනැගිල්ල
+capital - අගනුවර
+castle - මාළිගාව
+church - දේවස්ථානය
+cinema - සිනිමා-ශාලාව
+city - නගරය
+flat - මහල්-නිවාසය
+hospital - ආරෝග්‍යශාලාව | රෝහල
+hotel - භෝජනාගාරය | හෝටලය
+library - පුස්තකාලය
+park - උද්‍යානය
+prison - බන්ධනාගාරය
+restaurant - ආපන-ශාලාව | භෝජනාගාරය
+road - පාර | මාවත
+school - පාසැල | විද්‍යාලය
+street - වීදිය
+structure - ආකෘතිය | සැලැස්ම
+supermarket - සුපිරි | වෙළඳසැල
+town - නුවර | නගරය
+university - විශ්වවිද්‍යාලය | සරසවිය
+village - ගම
+accident - හදිසි-අනතුර
+boat - බෝට්ටුව
+bus - බසය
+car - මොටෝරථය
+curve - වක්‍රය
+express - සීඝ‍්‍රගාමී
+flight - පියසැරිය
+journey - ගමන
+passenger - මඟියා
+ship - නැව
+track - පීලිපාර
+transport - ප්‍රවාහණය
+actor - නළුවා
+actress - නිළිය
+businessman - ව්‍යාපාරිකයා
+expert - ඉතා | දක්ෂයා
+general - සේනාධිපතියා | ජනරාල්වරයා
+journalist - පත්‍ර-කලාවේදියා
+judge - විනිසුරු | නඩුකාරයා
+leader - නායකයා
+minister - ඇමතිවරයා
+musician - සංගීතඥයා
+photographer - ඡායාරූප-ශිල්පියා
+pilot - ගුවන්-නියමුවා
+politician - දේශපාලනඥයා | දේශපාලකයා
+president - ජනාධිපති
+professional - වෘත්තීයවේදී
+representative - නියෝජීතයා
+sailor - නාවිකයා
+scientist - විද්‍යාඥයා
+secretary - ලේකම්
+servant - මෙභෙකරුවා
+soldier - සොල්දාදුවා | සෙබළා
+writer - ලේඛකයා | ගත්කරු
+bank - කණ්ඩිය
+beach - වෙරළ
+east - නැගෙනහිර
+hill - කන්ද
+island - දූපත
+lake - වැව | විල
+land - පොළොව
+map - සිතියම
+north - උතුර
+plain - පතන | තැනිතලාව
+region - ප්‍රාන්තය | කලාපය
+river - ගඟ
+sea - මුහුද
+south - දකුණ
+space - ආකාශය | අවකාශය
+star - තරුව
+sun - ඉර | සූර්යයා
+west - බස්නාහිර
+cloud - වලාකුළ
+rain - වැස්ස
+snow - හිම
+storm - කුණාටුව
+wind - සුළඟ
+acid - අම්ලය
+chemical - රසායනික-ද්‍රව්‍ය
+coal - ගල්-අඟුරු
+cotton - කපු
+dust - දූවිලි
+earth - පස්
+fat - තරබාරු | මේදය
+glass - කැඩපත
+glue - මැලියම්
+grain - කණිකාව
+ice - අයිස්
+iron - යකඩ
+leather - හම්
+liquid - ද්‍රව | දියර
+matter - පදාර්ථය
+oil - තෙල්
+poison - විෂ
+powder - කුඩු | චූර්ණය
+sand - වැලි
+silk - සේද
+soap - සබන්
+steel - වානේ
+wood - දැව | ලී
+wool - ලොම්
+bag - බෑගය
+basket - කූඩය
+bottle - බෝතලය
+box - පෙට්ටිය
+cup - කෝප්පය
+drawer - ලාච්චුව
+envelope - ලියුම්-කවරය
+glass - වීදුරු | වීදුරුව
+plate - පිඟාන
+bell - සීනුව
+button - බොත්තම
+gun - තුවක්කුව
+hammer - මිටිය
+hook - කොක්ක
+key - යතුර
+lock - අගුළ
+match - ගිනිකූර
+nail - ඇණය
+needle - ඉදිකටුව
+pump - පොම්පය
+rope - කඹය
+scissors - කතුර
+stamp - මුද්‍රාව
+whip - කසය
+addition - එකතු-කිරීම
+angle - කෝණය
+area - ක්ෂේත්‍රඑලය
+circle - වෘත්තය
+curve - වක්‍රය
+degree - අංශකය
+difference - වෙනස්කම
+distance - පරතරය
+division - බෙදීම | විභාජනය
+edge - දාරය
+half - භාගය
+limit - සීමාව
+line - රේඛාව
+net - දැල
+order - විනය | නිසි-පාලනය
+outside - පිටපැත්ත
+point - ලක්ෂ්‍යය
+purpose - අරමුණ
+result - ප්‍රතිඑලය
+root - මූලය
+rule - නීතිය
+set - කාණ්ඩය
+side - පැත්ත
+square - සමචතුරස‍්‍රය
+square - වර්ගඑලය
+surface - පෘෂ්ඨය
+total - ඓක්‍යය | එකතුව
+begin - ආරම්භ | කරනවා
+break - කඩනවා
+buy - මිලටගන්නවා
+close - වසනවා
+come - එනවා
+cut - කපනවා
+dance - නටනවා
+do - කරනවා
+drink - පානය-කරනවා
+eat - කනවා | අනුභව-කරනවා
+fall - වැටෙනවා
+feel - දැනෙනවා
+find - ලබා-ගන්නවා | සොයා-ගන්නවා
+fire - වෙඩි-තබනවා
+fly - පියාඹනවා
+follow - අනුගමනය-කරනවා
+forget - අමතක-කරනවා
+get - ලබාගන්නවා
+give - දෙනවා
+hear - ඇසෙනවා
+help - සහාය-වෙනවා
+hope - බලාපොරොත්තු-වෙනවා
+jump - පනිනවා
+kiss - සිප-ගන්නවා
+know - දැන-සිටිනවා
+laugh - ශබ්ද-නගා-සිනාසෙනවා
+learn - ඉගෙනගන්නවා
+lie - බොරුව | වැතිරෙනවා
+lie - මුසාව
+listen - ඇහුම්කන්-දෙනවා
+look - බලනවා
+lose - නැතිවෙනවා
+love - ආදරය
+make - කරනවා
+meet - හමුව
+move - ගෙන-යනවා
+need - අවශ්‍යතාව
+open - විවෘත-කරනවා | අරිනවා
+pay - ගෙවනවා
+play - සෙල්ලම්-කරනවා
+pull - ඇදගෙන-යනවා
+push - තල්ලු-කරනවා
+put - දමනවා
+read - කියවනවා
+remember - මතක-තබාගන්නවා
+run - දුවනවා
+say - කියනවා
+sell - විකුණනවා
+sing - ගී-ගයනවා
+sit - වාඩිවෙනවා
+smile - සිනහව
+swim - පිහිනනවා
+take - අරගන්නවා
+understand - තේරුම්-ගන්නවා
+use - පාවිච්චි-කරනවා
+wait - නැවතී-සිටිනවා
+write - ලියනවා
+and - සහ
+because - නිසා | හේතුකොට
+for - සඳහා
+if - හොත් | යමක්-වූවොත්
+or - එක්කෝ
+than - වඩා
+until - තුරු
+whenever - ඕනෑවිටක
+against - විරුද්ධව
+among - අතර
+at - කෙරෙහි
+beside - සමීපයෙහි | අසල
+during - අතරතුර
+for - සඳහා
+from - සිට
+from - සිට
+into - තුළට
+of - ගේ | ගෙන්
+on - උඩ | මතුපිට
+on - උඩ | මතුපිට
+since - එවක්-පටන්
+to - දෙසට
+with - සමඟ
+with - සමඟ
+without - තොර | හැර
+anyone - කිසිවෙක්
+anything - කිසිවක් | කිසිදෙයක්
+everything - සියල්ල
+he - ඔහු
+her - ඇගේ
+him - ඔහුට
+himself - ඔහුම
+his - ඔහුගේ
+mine - මගේ
+it - එය | ඌ
+itself - එයම
+me - මා
+my - මගේ
+our - අපේ
+she - ඈ | ඇය
+that - අර
+their - ඔවුන්ගේ
+them - ඔවුන්ට
+these - මේවා
+they - ඔවුහු
+this - මෙය
+those - ඒවා
+me - මම
+us - අපට
+we - අපි
+what - මොනවාද
+when - කවදා
+which - මොන | කොයි
+which - මොන | කොයි
+who - කවුද
+whom - කාටද
+whose - කාගේද
+I - මම
+you - නුඹ | උඹලා
+your - ඔබගේ
+yourself - නුඹම
+going - යනවා
+have - ඉන්නවා

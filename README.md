@@ -1,5 +1,5 @@
 # dictionary-translator py
-A simple dictionary based translator from English to Sinhala.
+A simple dictionary based translator from English to Sinhala with a simple `tkinter` gui. 
 
 Edit words_.txt file to your desired language, each line entry in words_.txt should take the form of,<return>
 
